@@ -1,4 +1,4 @@
-
+Plotly
 streamlit
 pandas
 matplotlib
