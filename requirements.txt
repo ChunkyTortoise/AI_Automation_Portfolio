@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+matplotlib
+nltk
+numpy
+seaborn
+langchain
+langchain_openai
+openai
